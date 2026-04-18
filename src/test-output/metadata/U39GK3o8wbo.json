@@ -1,0 +1,21 @@
+{
+  "id": "U39GK3o8wbo",
+  "title": "示例视频标题",
+  "author": {
+    "name": "示例作者",
+    "uid": "example_uid"
+  },
+  "description": "这是一个示例视频描述",
+  "tags": [
+    "示例标签1",
+    "示例标签2"
+  ],
+  "createTime": 1776503445593,
+  "statistics": {
+    "diggCount": 1000,
+    "commentCount": 100,
+    "shareCount": 50,
+    "playCount": 10000
+  },
+  "duration": 60
+}
